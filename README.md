@@ -4,5 +4,5 @@ This is a self-study unity exercise project. Wanting too much and being too gree
 # Project Video
 I was still putting a lot of thought into the video editing...
 
-[[![IMAGE ALT TEXT](http://img.youtube.com/vi/"YOUR_VIDEO_ID"/0.jpg)](https://www.youtube.com/watch?v="YOUR_VIDEO_ID" "YOUR_VIDEO_TITLE")](https://www.youtube.com/watch?v=c2OsjqdRSo0)https://www.youtube.com/watch?v=c2OsjqdRSo0
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/"https://www.youtube.com/watch?v=c2OsjqdRSo0"/0.jpg)](https://www.youtube.com/watch?v="https://www.youtube.com/watch?v=c2OsjqdRSo0" "Dream Fight")
 
