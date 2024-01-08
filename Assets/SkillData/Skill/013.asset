@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee1208a05edd284e876c4c77dc904fc, type: 3}
+  m_Name: 013
+  m_EditorClassIdentifier: 
+  skillID: 13
+  skillSprite: {fileID: 21300000, guid: a243b0f5b57783a4d8e35dbbe00ca5ba, type: 3}
+  weaponImage: {fileID: 0}
+  skillName: Triple
+  mpCons: 
+  creatMp: 0
+  reloadMp: 0
+  magazineNum: 0
+  skillExp: 0
+  unlockExp: 20
+  headTaking: quantity! The more the better, the drizzle!
+  skillAttribute: Shoot three arrows at the same time.
+  isUnlocked: 0
+  preSkills:
+  - {fileID: 11400000, guid: d5419665af3f0514cbe461b76b6d69b3, type: 2}
+  canUnlocked: 0
+  isNew: 1
+  canEquip: 0

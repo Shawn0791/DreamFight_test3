@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee1208a05edd284e876c4c77dc904fc, type: 3}
+  m_Name: 000
+  m_EditorClassIdentifier: 
+  skillID: 0
+  skillSprite: {fileID: 0}
+  weaponImage: {fileID: 21300000, guid: 58b0abd6b62b4aa4db6809021ae4e0ce, type: 3}
+  skillName: Fist
+  mpCons: 
+  creatMp: 0
+  reloadMp: 0
+  magazineNum: 0
+  skillExp: 0
+  unlockExp: 0
+  headTaking: 
+  skillAttribute: 
+  isUnlocked: 0
+  preSkills: []
+  canUnlocked: 0
+  isNew: 1
+  canEquip: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee1208a05edd284e876c4c77dc904fc, type: 3}
+  m_Name: 004
+  m_EditorClassIdentifier: 
+  skillID: 4
+  skillSprite: {fileID: 21300000, guid: 78bda2b5896cc5b459874d89ad10f064, type: 3}
+  weaponImage: {fileID: 21300000, guid: 64258b3b187a873489f05cd081518b1c, type: 3}
+  skillName: M249
+  mpCons: 'Create : 20  Reload : 10  Magazine : 100'
+  creatMp: 20
+  reloadMp: 10
+  magazineNum: 100
+  skillExp: 0
+  unlockExp: 20
+  headTaking: Does this still have to be thought of, to suppress firepower of course!
+  skillAttribute: A light machine gun with a huge ammunition capacity, 100 rounds
+    of ammunition can maintain a long continuous burst.
+  isUnlocked: 0
+  preSkills:
+  - {fileID: 11400000, guid: 9abcd9c32f7dc2544ba80d5d49b5b418, type: 2}
+  canUnlocked: 0
+  isNew: 1
+  canEquip: 1

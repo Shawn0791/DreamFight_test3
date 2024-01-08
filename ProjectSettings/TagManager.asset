@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - item
+  - Enemy
+  - Slot
+  - BlackSkull
+  - BlackSword
+  - TrackedPoint
+  - Ground
+  - GunCam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Dead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - View
+  - Map
+  - Wall
+  - Ground
+  - Player
+  - Enemy
+  - Item
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: deepbackground
+    uniqueID: 2430207771
+    locked: 0
+  - name: background
+    uniqueID: 3189604963
+    locked: 0
+  - name: midground
+    uniqueID: 637110535
+    locked: 0
+  - name: ground
+    uniqueID: 1598024387
+    locked: 0
+  - name: item
+    uniqueID: 1676387637
+    locked: 0
+  - name: player
+    uniqueID: 1207303463
+    locked: 0
+  - name: foreground
+    uniqueID: 3059257915
+    locked: 0

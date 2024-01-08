@@ -1,0 +1,8 @@
+B
+A geometric series is a series of the form. ∑n=1∞arn−1=a+ar+ar2+ar3+⋯.
+A
+??? ???
+B
+If  |r|<1 , the series converges, and∑n=1∞arn−1=a1−rfor|r|<1.If  |r|≥1 , the series diverges.
+A
+damn it,speak English pls??

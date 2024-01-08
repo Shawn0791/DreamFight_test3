@@ -1,0 +1,12 @@
+B
+It is named after I. Newton and G. Leibniz, who both knew the rule expressed by 1, although it was published later. It is also known as "Fundamental theorem of calculus".
+A
+... ...
+B
+If f is Lebesgue integrable over [a,b] and F is defined by F(x)=∫axf(t)dt+C,where C is a constant, then F is absolutely continuous, F′(x)=f(x) almost-everywhere on [a,b] (everywhere if f is continuous on [a,b]) and 1 is valid.
+A
+??? ???
+B
+A generalization of the Newton–Leibniz formula is the Stokes formula for orientable manifolds with a boundary.
+A
+good night
